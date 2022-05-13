@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+.hero {
+    flex-direction: column;
+    justify-content: space-evenly;
+    display: flex;
+    background-image: linear-gradient(to right , tan, blue, grey);
+    height: 400px;
+    text-shadow: 0 0 8px white;
+   
+    
+}
+
+#userInput {
+    text-align: center;
+    margin: 0px auto;
+    margin-bottom: 100px;
+    background: none;
+    width: 150px;
+    height: 50px;
+    color:azure;
+    font-size: 20px;
+    border: none;
+}
+
+.container {
+    flex-direction: column;
+    justify-content: space-evenly;
+    display: flex;
+    background-color: grey;
+    height: 400px;
+    text-shadow: 1px 1px 1x white;
+    
+}
+.meterFeet {
+    display: flex;
+    justify-content: space-around;
+    margin: 0px auto;
+    align-content: center;
+    border: 2px solid white;
+    
+}
+
+h4 {
+    text-decoration: underline;
+}
+
+h6 {
+    color: aliceblue;
+    font-size: 12px;
+}
+
+
+
